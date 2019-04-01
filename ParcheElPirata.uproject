@@ -2,5 +2,9 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.21",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"TargetPlatforms": [
+		"HTML5",
+		"WindowsNoEditor"
+	]
 }
