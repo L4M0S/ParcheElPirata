@@ -3,6 +3,12 @@
 	"EngineAssociation": "4.21",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "OnlineSubsystemSteam",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"HTML5",
 		"WindowsNoEditor"
