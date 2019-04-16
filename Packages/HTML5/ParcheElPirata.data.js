@@ -180,6 +180,6 @@ Module['FS_createPath']('/ParcheElPirata/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"audio": 0, "start": 0, "crunched": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"audio": 0, "start": 53, "crunched": 0, "end": 101, "filename": "/UE4CommandLine.txt"}, {"audio": 0, "start": 101, "crunched": 0, "end": 38822311, "filename": "/ParcheElPirata/Content/Paks/ParcheElPirata-HTML5.pak"}], "remote_package_size": 38822311, "package_uuid": "1cafde76-e1a6-409c-b0d7-31e6b7b718e5"});
+ loadPackage({"files": [{"audio": 0, "start": 0, "crunched": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"audio": 0, "start": 53, "crunched": 0, "end": 101, "filename": "/UE4CommandLine.txt"}, {"audio": 0, "start": 101, "crunched": 0, "end": 38896173, "filename": "/ParcheElPirata/Content/Paks/ParcheElPirata-HTML5.pak"}], "remote_package_size": 38896173, "package_uuid": "44cc7c11-3fd6-4856-84a1-71a115b127c7"});
 
 })();
