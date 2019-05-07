@@ -68,7 +68,7 @@ var Module = {
 	assetDownloadProgress: {}, // Track how many bytes of each needed asset has been downloaded so far.
 
 	UE4_indexedDBName: 'UE4_assetDatabase_ParcheElPirata', // this should be an ascii ID string without special characters that is unique to the project that is being packaged
-	UE4_indexedDBVersion: 201904152227, // Bump this number to invalidate existing IDB storages in browsers.
+	UE4_indexedDBVersion: 201905070131, // Bump this number to invalidate existing IDB storages in browsers.
 };
 
 
@@ -1106,7 +1106,7 @@ $(document).ready(function() {
 				return { db: db, wasmBytes: wasmBytes, fromIndexedDB: true };
 			});
 		}).catch(function() {
-			return download(Module.locateFile('UE4Game.wasm'), 'arraybuffer').then(function(wasmBytes) {
+			return download(Module.locateFile('ParcheElPirata.wasm'), 'arraybuffer').then(function(wasmBytes) {
 				return { db: db, wasmBytes: wasmBytes, fromIndexedDB: false };
 			});
 		});
@@ -1118,7 +1118,7 @@ $(document).ready(function() {
 
 		// ----------------------------------------
 		// MAIN JS
-		var mainJsDownload = fetchOrDownloadAndStore(db, Module.locateFile('UE4Game.js')).then(function(data) {
+		var mainJsDownload = fetchOrDownloadAndStore(db, Module.locateFile('ParcheElPirata.js')).then(function(data) {
 				return addScriptToDom(data).then(function() {
 					addRunDependency('wait-for-compiled-code');
 				});
