@@ -157,14 +157,14 @@
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 156
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 157
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 158
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 159
-"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 160
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Items/T_CannonBall.uasset" 161
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Items/T_CannonBall_Sprite.uasset" 162
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Sounds/cannonfire.uasset" 163
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/BP_CannonBall.uasset" 164
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/S_UserInfo.uasset" 165
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/BP_GameInstance.uasset" 166
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/S_UserInfo.uasset" 159
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/BP_GameInstance.uasset" 160
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 161
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 162
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Items/T_CannonBall.uasset" 163
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Items/T_CannonBall_Sprite.uasset" 164
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Sounds/cannonfire.uasset" 165
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/BP_CannonBall.uasset" 166
 "../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Items/T_Cannon.uasset" 167
 "../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Items/T_Cannon_Sprite.uasset" 168
 "../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Items/T_HealthKit.uasset" 169
@@ -178,30 +178,42 @@
 "../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/DT_Items.uasset" 177
 "../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/BP_Loot.uasset" 178
 "../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/S_PanelItems.uasset" 179
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Ships/T_Ship1.uasset" 180
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Ships/T_Ship1_Sprite.uasset" 181
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/CharacterFlipbook.uasset" 182
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Ships/ship__5_.uasset" 180
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Ships/ship__5__Sprite.uasset" 181
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Ships/CharacterFlipBook2.uasset" 182
 "../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/BP_SaveGame.uasset" 183
 "../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/BPL_SaveLoad.uasset" 184
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Items/T_Slot.uasset" 185
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Widgets/WB_HUD.uasset" 186
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Widgets/WB_Menu.uasset" 187
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/BP_Character.uasset" 188
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/BP_GameMode.uasset" 189
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/DT_Users.uasset" 190
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/HUD/T_MainMenuBackground.uasset" 191
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Widgets/BP_TableRank.uasset" 192
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Widgets/WB_SessionButton.uasset" 193
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Widgets/WB_MainMenu.uasset" 194
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Widgets/WB_Login.uasset" 195
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Levels/MainMenu.umap" 196
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/BP_Enemy.uasset" 197
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Levels/Test_Level_BuiltData.uasset" 198
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 199
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Environment/T_Water.uasset" 200
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Environment/T_Water_Mat.uasset" 201
-"../../../Engine/Content/BasicShapes/Plane.uasset" 202
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 203
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Levels/Test_Level.umap" 204
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 205
-"../../../Engine/Content/Maps/Entry.umap" 206
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Widgets/WB_Death.uasset" 185
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Items/T_Slot.uasset" 186
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Widgets/WB_HUD.uasset" 187
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Widgets/WB_Menu.uasset" 188
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/BP_Character.uasset" 189
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/BP_GameMode.uasset" 190
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/DT_Users.uasset" 191
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/HUD/T_MainMenuBackground.uasset" 192
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Widgets/BP_TableRank.uasset" 193
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Widgets/WB_SessionButton.uasset" 194
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Widgets/WB_MainMenu.uasset" 195
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Widgets/WB_Login.uasset" 196
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Levels/MainMenu.umap" 197
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Ships/ship__2_.uasset" 198
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Ships/ship__2__Sprite.uasset" 199
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Ships/EnemyFlipBook.uasset" 200
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/BP_Enemy.uasset" 201
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Environment/Land/tiles_sheet_2.uasset" 202
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Environment/Land/tiles_sheet_2_TileSet.uasset" 203
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/NewPaperTileMap.uasset" 204
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/BP_Island.uasset" 205
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Levels/Test_Level_BuiltData.uasset" 206
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 207
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Environment/T_Water.uasset" 208
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Environment/T_Water_Mat.uasset" 209
+"../../../Engine/Content/BasicShapes/Plane.uasset" 210
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 211
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/NewPaperTileMap1.uasset" 212
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Ships/ship__13_.uasset" 213
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Ships/ship__13__TileSet.uasset" 214
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/NewPaperTileMap2.uasset" 215
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Levels/Test_Level.umap" 216
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 217
+"../../../Engine/Content/Maps/Entry.umap" 218
