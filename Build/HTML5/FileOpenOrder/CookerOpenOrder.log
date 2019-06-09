@@ -210,24 +210,30 @@
 "../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Widgets/WB_MainMenu.uasset" 209
 "../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Widgets/WB_Login.uasset" 210
 "../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Levels/MainMenu.umap" 211
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Ships/ship__2_.uasset" 212
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Ships/ship__2__Sprite.uasset" 213
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Ships/EnemyFlipBook.uasset" 214
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/BP_Enemy.uasset" 215
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Environment/Land/tiles_sheet_2.uasset" 216
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Environment/Land/tiles_sheet_2_TileSet.uasset" 217
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/NewPaperTileMap.uasset" 218
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/BP_Island.uasset" 219
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Levels/Test_Level_BuiltData.uasset" 220
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 221
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Environment/T_Water.uasset" 222
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Environment/T_Water_Mat.uasset" 223
-"../../../Engine/Content/BasicShapes/Plane.uasset" 224
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 225
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/NewPaperTileMap1.uasset" 226
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Ships/ship__13_.uasset" 227
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Ships/ship__13__TileSet.uasset" 228
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/NewPaperTileMap2.uasset" 229
-"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Levels/Test_Level.umap" 230
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 231
-"../../../Engine/Content/Maps/Entry.umap" 232
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Ships/ship__20_a.uasset" 212
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Ships/ship__20_a_Sprite.uasset" 213
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Ships/ship__20_b.uasset" 214
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Ships/ship__20_b_Sprite.uasset" 215
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Ships/EnemyDeathFlipbook.uasset" 216
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Ships/ship__2_.uasset" 217
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Ships/ship__2__Sprite.uasset" 218
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Ships/EnemyFlipBook.uasset" 219
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Sounds/shipsink3.uasset" 220
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/BP_Enemy.uasset" 221
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Environment/Land/tiles_sheet_2.uasset" 222
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Environment/Land/tiles_sheet_2_TileSet.uasset" 223
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/NewPaperTileMap.uasset" 224
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/BP_Island.uasset" 225
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Levels/Test_Level_BuiltData.uasset" 226
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 227
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Environment/T_Water.uasset" 228
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Environment/T_Water_Mat.uasset" 229
+"../../../Engine/Content/BasicShapes/Plane.uasset" 230
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 231
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/NewPaperTileMap1.uasset" 232
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Ships/ship__13_.uasset" 233
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Assets/Ships/ship__13__TileSet.uasset" 234
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Blueprints/NewPaperTileMap2.uasset" 235
+"../../../../../../Users/lamos/Documents/Unreal Projects/ParcheElPirata/Content/Levels/Test_Level.umap" 236
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 237
+"../../../Engine/Content/Maps/Entry.umap" 238
